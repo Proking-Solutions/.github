@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecd8cd49-a215-416a-b13d-f89f9b949e3f" alt="Proking Solutions Logo" />
+</p>
+
 # Proking Solutions 🚀
 
 Welcome to **Proking Solutions** – where innovation meets automation! We specialize in AI-powered and automation-driven software solutions tailored to elevate businesses and streamline workflows.
